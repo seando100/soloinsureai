@@ -5,14 +5,12 @@
   "nav.faq": "Preguntas Frecuentes",
   "nav.blog": "Blog",
   "nav.waitlist": "Unirse a la Lista de Espera",
-
   "footer.tagline": "Captación de clientes impulsada por IA para agentes de seguros.",
   "footer.privacy": "Privacidad",
   "footer.terms": "Términos",
   "footer.contact": "Contacto",
   "footer.copyright": "© {{year}} SoloSolutionsAI. Todos los derechos reservados.",
   "footer.product": "Un Producto de SoloSolutionsAI",
-
   "index.badge": "Captación de Seguros con IA",
   "index.coming": "Disponible T3 2026",
   "index.hero.title": "Su Próxima Captación de Clientes Se Gestiona Sola.",
@@ -20,13 +18,11 @@
   "index.hero.cta": "Unirse a la Lista de Espera",
   "index.hero.features": "Ver todas las funciones →",
   "index.hero.subtext": "Sea el primero en saber cuándo lanzamos",
-
   "index.trust.encrypted": "Cifrado y seguro",
   "index.trust.bilingual": "Inglés y Español",
   "index.trust.channels": "Captación por chat, teléfono y widget",
   "index.trust.alerts": "Alertas por correo instantáneas",
   "index.trust.setup": "Configuración en menos de 10 minutos",
-
   "index.pain.title": "¿Le suena familiar?",
   "index.pain.subtitle": "Los agentes de seguros independientes pierden tiempo y prospectos con los mismos tres problemas cada día.",
   "index.pain.1.title": "Las solicitudes de cotización se acumulan",
@@ -36,7 +32,6 @@
   "index.pain.3.title": "Los eventos de vida fuera de horario quedan sin atender",
   "index.pain.3.body": "Un nuevo propietario cierra la compra de su casa a las 4pm un viernes. Necesita cobertura para el lunes. Buscan agentes, encuentran su sitio web, y no tienen forma de iniciar el proceso. Recurren a una herramienta de cotización en línea.",
   "index.pain.footer": "SoloInsureAI se encarga de los tres — automáticamente.",
-
   "index.features.title": "Todo lo que necesita. Nada que no.",
   "index.features.subtitle": "Seis capacidades poderosas que transforman la forma en que los agentes de seguros independientes gestionan nuevos clientes.",
   "index.features.intake.title": "Captación de Clientes con IA",
@@ -52,7 +47,6 @@
   "index.features.marketing.title": "Kit de Marketing",
   "index.features.marketing.body": "Genere publicaciones para redes sociales y tarjetas visuales con su marca para Facebook, Instagram, LinkedIn y Nextdoor — en segundos.",
   "index.features.learnMore": "Más información",
-
   "index.howItWorks.title": "En funcionamiento en minutos",
   "index.howItWorks.subtitle": "Desde el primer inicio de sesión hasta recibir su primera captación — tres pasos sencillos.",
   "index.howItWorks.step1.title": "Configure su perfil",
@@ -61,7 +55,6 @@
   "index.howItWorks.step2.description": "Agréguelo a su sitio web, firma de correo, perfiles sociales, o donde se conecte con prospectos. Su IA gestiona cada conversación — 24/7.",
   "index.howItWorks.step3.title": "Revise y responda",
   "index.howItWorks.step3.description": "Reciba un resumen estructurado con análisis de cobertura por IA en el momento en que un prospecto envía su información. Conozca las brechas de cobertura, el evento de vida y las preguntas adecuadas antes de levantar el teléfono.",
-
   "index.dual.title": "Mejor para Usted. Mejor para los Asegurados.",
   "index.dual.subtitle": "Cuando su captación funciona de manera más inteligente, todos ganan — usted recupera su tiempo, y los asegurados obtienen la experiencia receptiva y preparada que merecen.",
   "index.dual.forYou": "Para Usted",
@@ -88,7 +81,6 @@
   "index.dual.step4.client.body": "De \"necesito un seguro\" a una consulta preparada — más rápido de lo que pensaba posible. El servicio de una agencia grande con la atención personal de un agente independiente.",
   "index.dual.tagline": "Las grandes relaciones con los asegurados comienzan antes de la primera consulta.",
   "index.dual.seeAll": "Ver todos los beneficios",
-
   "index.pricing.title": "Precios simples y transparentes",
   "index.pricing.subtitle": "Comience gratis por 14 días. Cancele cuando quiera. Por agente.",
   "index.pricing.starter": "Inicial",
@@ -117,7 +109,6 @@
   "index.pricing.proPlus.f5": "Disponibilidad 24/7 — nunca pierda una llamada",
   "index.pricing.trial": "Todos los planes incluyen 14 días de prueba gratis.",
   "index.pricing.compare": "Comparar planes →",
-
   "index.waitlist.title": "Reciba notificación al lanzamiento",
   "index.waitlist.subtitle": "SoloInsureAI estará disponible en el T3 2026. Deje sus datos y le avisaremos en cuanto esté listo.",
   "index.waitlist.name": "Nombre",
@@ -130,13 +121,11 @@
   "index.waitlist.disclaimer": "Le notificaremos cuando SoloInsureAI se lance. Sin spam, nunca.",
   "index.waitlist.success.title": "¡Está en la lista!",
   "index.waitlist.success.body": "Le notificaremos cuando SoloInsureAI se lance.",
-
   "index.closing.title": "Su flujo de prospectos funciona mientras usted atiende asegurados.",
   "index.closing.subtitle": "Deje de perder prospectos por llamadas perdidas y huecos fuera de horario. Captación por chat, teléfono y documentos — siempre activa, siempre con su marca, siempre lista.",
   "index.closing.cta": "Unirse a la Lista de Espera",
   "index.closing.pricing": "Ver precios →",
   "index.closing.coming": "Disponible T3 2026",
-
   "features.hero.title": "Diseñado para el Agente de Seguros Independiente",
   "features.hero.subtitle": "Captación por chat, teléfono o widget. Análisis documental con IA. Herramientas de marketing. Todo lo que necesita — sin agregar gastos generales ni contratar personal.",
   "features.intake.title": "Captación Que Se Gestiona Sola",
@@ -242,7 +231,6 @@
   "features.cta.subtitle": "Disponible T3 2026.",
   "features.cta.waitlist": "Unirse a la Lista de Espera",
   "features.cta.pricing": "Ver Precios",
-
   "benefits.hero.title": "Mejor para Usted. Mejor para los Asegurados.",
   "benefits.hero.subtitle": "Cuando su captación funciona de manera más inteligente, todos ganan. Usted recupera su tiempo y entra a cada consulta preparado. Sus asegurados obtienen la experiencia receptiva y profesional que merecen — desde la primera interacción.",
   "benefits.journey.title": "El Viaje de Captación",
@@ -310,7 +298,6 @@
   "benefits.bottom.cta": "Unirse a la Lista de Espera",
   "benefits.bottom.features": "Ver todas las funciones →",
   "benefits.bottom.trial": "14 días de prueba gratis · Cancele cuando quiera",
-
   "pricing.hero.title": "Precios Simples y Transparentes",
   "pricing.hero.subtitle": "Comience con la automatización de captación que necesita. Agregue las herramientas de marketing cuando esté listo para crecer.",
   "pricing.starter": "Inicial",
@@ -343,7 +330,6 @@
   "pricing.proPlus.f3": "Los asegurados hablan naturalmente con su asistente de IA — 24/7, sin música de espera",
   "pricing.proPlus.f4": "Inteligencia Documental — solicite, reciba y analice documentos de seguros con IA",
   "pricing.proPlus.f5": "La IA extrae límites de cobertura, deducibles, fechas de vencimiento e indicadores de brechas",
-  "pricing.proPlus.f6": "Cargas cifradas seguras con retención de 30 días",
   "pricing.proPlus.f7": "Número de teléfono mostrado en materiales del Kit de Marketing",
   "pricing.waitlist": "Unirse a la Lista de Espera",
   "pricing.comingQ3": "Disponible T3 2026",
@@ -362,7 +348,6 @@
   "pricing.cta.title": "¿Listo para Comenzar?",
   "pricing.cta.subtitle": "SoloInsureAI estará disponible en el T3 2026. Únase a la lista de espera para ser el primero en la fila.",
   "pricing.cta.button": "Unirse a la Lista de Espera",
-
   "faq.hero.title": "Preguntas Frecuentes",
   "faq.hero.subtitle": "Todo lo que necesita saber sobre SoloInsureAI.",
   "faq.section.howItWorks": "Cómo Funciona",
@@ -396,7 +381,6 @@
   "faq.cta.subtitle": "Estamos aquí para ayudar.",
   "faq.cta.waitlist": "Unirse a la Lista de Espera",
   "faq.cta.contact": "Contáctenos",
-
   "contact.hero.title": "Contáctenos",
   "contact.hero.subtitle": "¿Tiene preguntas sobre SoloInsureAI? Nos encantaría saber de usted. Envíenos un mensaje y le responderemos lo antes posible.",
   "contact.email.title": "Envíenos un Correo",
@@ -417,7 +401,6 @@
   "contact.form.submit": "Enviar Mensaje",
   "contact.form.success.title": "¡Gracias por comunicarse!",
   "contact.form.success.body": "Le notificaremos cuando SoloInsureAI se lance.",
-
   "privacy.title": "Política de Privacidad",
   "privacy.lastUpdated": "Última Actualización: 21 de marzo de 2026",
   "privacy.s1.title": "1. Introducción",
@@ -530,7 +513,6 @@
   "privacy.s14.intro": "Si tiene preguntas sobre esta Política de Privacidad, desea ejercer sus derechos, o tiene inquietudes sobre nuestras prácticas de datos, contáctenos en:",
   "privacy.s14.email": "Correo: <a>privacy@solosolutionsai.com</a>",
   "privacy.s14.address": "SoloSolutionsAI\nDunedin, Florida, Estados Unidos",
-
   "terms.title": "Términos de Servicio",
   "terms.lastUpdated": "Última Actualización: 21 de marzo de 2026",
   "terms.s1.title": "1. Aceptación de Términos",
@@ -626,11 +608,9 @@
   "terms.s18.intro": "¿Preguntas sobre estos Términos? Contáctenos en:",
   "terms.s18.email": "Correo: <a>legal@solosolutionsai.com</a>",
   "terms.s18.address": "SoloSolutionsAI\nDunedin, Florida, Estados Unidos",
-
   "notFound.title": "404",
   "notFound.message": "¡Ups! Página no encontrada",
   "notFound.link": "Volver al Inicio",
-
   "blog.header.title": "Blog",
   "blog.header.subtitle": "Información sobre IA, captación de asegurados, generación de prospectos y crecimiento de su agencia.",
   "blog.readMore": "Leer más",

@@ -5,14 +5,12 @@
   "nav.faq": "FAQ",
   "nav.blog": "Blog",
   "nav.waitlist": "Join the Waitlist",
-
   "footer.tagline": "AI-powered client intake for insurance professionals.",
   "footer.privacy": "Privacy",
   "footer.terms": "Terms",
   "footer.contact": "Contact",
   "footer.copyright": "© {{year}} SoloSolutionsAI. All rights reserved.",
   "footer.product": "A SoloSolutionsAI Product",
-
   "index.badge": "AI-Powered Insurance Intake",
   "index.coming": "Coming Q3 2026",
   "index.hero.title": "Your Next Client Intake Runs Itself.",
@@ -20,13 +18,11 @@
   "index.hero.cta": "Join the Waitlist",
   "index.hero.features": "See all features →",
   "index.hero.subtext": "Be the first to know when we launch",
-
   "index.trust.encrypted": "Encrypted & secure",
   "index.trust.bilingual": "English & Spanish",
   "index.trust.channels": "Chat, phone & widget intake",
   "index.trust.alerts": "Instant email alerts",
   "index.trust.setup": "Setup in under 10 minutes",
-
   "index.pain.title": "Sound familiar?",
   "index.pain.subtitle": "Solo insurance agents lose time and prospects to the same three problems every day.",
   "index.pain.1.title": "Quote requests pile up",
@@ -36,7 +32,6 @@
   "index.pain.3.title": "After-hours life events go dark",
   "index.pain.3.body": "A new homeowner closes on their house at 4pm on a Friday. They need coverage by Monday. They search for agents, find your website, and have no way to start the process. They go to an online quote tool instead.",
   "index.pain.footer": "SoloInsureAI handles all three — automatically.",
-
   "index.features.title": "Everything you need. Nothing you don't.",
   "index.features.subtitle": "Six powerful capabilities that transform how solo insurance agents manage new clients.",
   "index.features.intake.title": "AI Client Intake",
@@ -52,7 +47,6 @@
   "index.features.marketing.title": "Marketing Kit",
   "index.features.marketing.body": "Generate platform-ready social posts and branded visual cards for Facebook, Instagram, LinkedIn, and Nextdoor — in seconds.",
   "index.features.learnMore": "Learn more",
-
   "index.howItWorks.title": "Up and running in minutes",
   "index.howItWorks.subtitle": "From first login to receiving your first intake — three simple steps.",
   "index.howItWorks.step1.title": "Set up your profile",
@@ -61,7 +55,6 @@
   "index.howItWorks.step2.description": "Add it to your website, email signature, social profiles, or anywhere you connect with prospects. Your AI handles every conversation — 24/7.",
   "index.howItWorks.step3.title": "Review and respond",
   "index.howItWorks.step3.description": "Get a structured summary with AI coverage insights the moment a prospect submits. Know the coverage gaps, the life event, and the right questions before you ever pick up the phone.",
-
   "index.dual.title": "Better for You. Better for Clients.",
   "index.dual.subtitle": "When your intake runs smarter, everyone wins — you reclaim your time, and clients get the responsive, prepared experience they deserve.",
   "index.dual.forYou": "For You",
@@ -88,7 +81,6 @@
   "index.dual.step4.client.body": "From \"I need insurance\" to a prepared consultation — faster than you thought possible. The service of a large agency with the personal touch of an independent agent.",
   "index.dual.tagline": "Great client relationships start before the first consultation.",
   "index.dual.seeAll": "See all benefits",
-
   "index.pricing.title": "Simple, transparent pricing",
   "index.pricing.subtitle": "Start free for 14 days. Cancel anytime. Per agent.",
   "index.pricing.starter": "Starter",
@@ -117,7 +109,6 @@
   "index.pricing.proPlus.f5": "24/7 availability — never miss a call",
   "index.pricing.trial": "All plans include a 14-day free trial.",
   "index.pricing.compare": "Compare plans →",
-
   "index.waitlist.title": "Get notified at launch",
   "index.waitlist.subtitle": "SoloInsureAI is coming Q3 2026. Leave your info and we'll let you know the moment it's ready.",
   "index.waitlist.name": "Name",
@@ -130,13 +121,11 @@
   "index.waitlist.disclaimer": "We'll notify you when SoloInsureAI launches. No spam, ever.",
   "index.waitlist.success.title": "You're on the list!",
   "index.waitlist.success.body": "We'll notify you when SoloInsureAI launches.",
-
   "index.closing.title": "Your pipeline runs while you're meeting clients.",
   "index.closing.subtitle": "Stop losing prospects to missed calls and after-hours gaps. Chat, phone, and document intake — always on, always branded, always ready.",
   "index.closing.cta": "Join the Waitlist",
   "index.closing.pricing": "View pricing →",
   "index.closing.coming": "Coming Q3 2026",
-
   "features.hero.title": "Built for the Solo Insurance Agent",
   "features.hero.subtitle": "Intake by chat, phone, or widget. AI document analysis. Marketing tools. Everything you need — without adding overhead or hiring staff.",
   "features.intake.title": "Intake That Runs Itself",
@@ -242,7 +231,6 @@
   "features.cta.subtitle": "Coming Q3 2026.",
   "features.cta.waitlist": "Join the Waitlist",
   "features.cta.pricing": "View Pricing",
-
   "benefits.hero.title": "Better for You. Better for Clients.",
   "benefits.hero.subtitle": "When your intake runs smarter, everyone wins. You reclaim your time and walk into every consultation prepared. Your clients get the responsive, professional experience they deserve — from the very first interaction.",
   "benefits.journey.title": "The Intake Journey",
@@ -310,7 +298,6 @@
   "benefits.bottom.cta": "Join the Waitlist",
   "benefits.bottom.features": "See all features →",
   "benefits.bottom.trial": "14-day free trial · Cancel anytime",
-
   "pricing.hero.title": "Simple, Transparent Pricing",
   "pricing.hero.subtitle": "Start with the intake automation you need. Add the marketing tools when you're ready to grow.",
   "pricing.starter": "Starter",
@@ -343,7 +330,6 @@
   "pricing.proPlus.f3": "Clients speak naturally with your AI assistant — 24/7, no hold music",
   "pricing.proPlus.f4": "Document Intelligence — request, receive, and AI-analyze insurance documents",
   "pricing.proPlus.f5": "AI extracts coverage limits, deductibles, expiration dates, and gap indicators",
-  "pricing.proPlus.f6": "Secure encrypted uploads with 30-day retention",
   "pricing.proPlus.f7": "Phone number displayed in Marketing Kit materials",
   "pricing.waitlist": "Join the Waitlist",
   "pricing.comingQ3": "Coming Q3 2026",
@@ -362,7 +348,6 @@
   "pricing.cta.title": "Ready to Get Started?",
   "pricing.cta.subtitle": "SoloInsureAI is coming Q3 2026. Join the waitlist to be first in line.",
   "pricing.cta.button": "Join the Waitlist",
-
   "faq.hero.title": "Frequently Asked Questions",
   "faq.hero.subtitle": "Everything you need to know about SoloInsureAI.",
   "faq.section.howItWorks": "How It Works",
@@ -396,7 +381,6 @@
   "faq.cta.subtitle": "We're here to help.",
   "faq.cta.waitlist": "Join the Waitlist",
   "faq.cta.contact": "Contact Us",
-
   "contact.hero.title": "Get In Touch",
   "contact.hero.subtitle": "Have questions about SoloInsureAI? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
   "contact.email.title": "Email Us",
@@ -417,7 +401,6 @@
   "contact.form.submit": "Send Message",
   "contact.form.success.title": "Thanks for reaching out!",
   "contact.form.success.body": "We'll notify you when SoloInsureAI launches.",
-
   "privacy.title": "Privacy Policy",
   "privacy.lastUpdated": "Last Updated: March 21, 2026",
   "privacy.s1.title": "1. Introduction",
@@ -530,7 +513,6 @@
   "privacy.s14.intro": "If you have questions about this Privacy Policy, wish to exercise your rights, or have concerns about our data practices, please contact us at:",
   "privacy.s14.email": "Email: <a>privacy@solosolutionsai.com</a>",
   "privacy.s14.address": "SoloSolutionsAI\nDunedin, Florida, United States",
-
   "terms.title": "Terms of Service",
   "terms.lastUpdated": "Last Updated: March 21, 2026",
   "terms.s1.title": "1. Acceptance of Terms",
@@ -626,11 +608,9 @@
   "terms.s18.intro": "Questions about these Terms? Contact us at:",
   "terms.s18.email": "Email: <a>legal@solosolutionsai.com</a>",
   "terms.s18.address": "SoloSolutionsAI\nDunedin, Florida, United States",
-
   "notFound.title": "404",
   "notFound.message": "Oops! Page not found",
   "notFound.link": "Return to Home",
-
   "blog.header.title": "Blog",
   "blog.header.subtitle": "Insights on AI, client onboarding, lead generation, and growing your practice.",
   "blog.readMore": "Read more",
