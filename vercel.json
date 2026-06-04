@@ -2,5 +2,10 @@
   "version": 2,
   "buildCommand": "npm run build",
   "framework": "vite",
+  "redirects": [
+    { "source": "/es", "destination": "https://www.solobusinessai.com/es/for-insurance", "permanent": true },
+    { "source": "/es/(.*)", "destination": "https://www.solobusinessai.com/es/for-insurance", "permanent": true },
+    { "source": "/(.*)", "destination": "https://www.solobusinessai.com/for-insurance", "permanent": true }
+  ],
   "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
